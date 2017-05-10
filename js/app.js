@@ -1,4 +1,6 @@
 "use strict";
 
-angular
-  .module("compliments", [])
+(function(){
+  angular
+  .module("emergencyComp", [])
+}());
